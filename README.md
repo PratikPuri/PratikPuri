@@ -34,6 +34,14 @@
 
 <hr>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,mysql,react,html,css,vscode,github,git" /><br>
+</div>
+
+<hr>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
     <img width="600" src="https://streak-stats.demolab.com?user=PratikPuri&theme=react&border_radius=10&count_private=true"/>
