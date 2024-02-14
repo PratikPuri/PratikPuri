@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Glad you stumbled accross my Github profile, I am Pratik a B.Tech 2020 Electrical Engineering graduate from IIT Gandhinagar workinng as a Software Development Engineer at Amazon.
+Glad you stumbled accross my Github profile, I am Pratik a B.Tech 2020 Electrical Engineering graduate from IIT Gandhinagar working as a Software Development Engineer at Amazon.
 I am also active on the following platforms:
 
 1. Linkedin: https://www.linkedin.com/in/pratik-puri-goswami/
