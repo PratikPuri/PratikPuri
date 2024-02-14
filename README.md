@@ -7,15 +7,15 @@
 </h3>
 
 <h4 align = "center">
-    🎓 I am a B.Tech. 2020 Electrical Engineering graduate from IIT Gandhinagar
+    I am a B.Tech. 2020 Electrical Engineering graduate from 🎓 <ins>IIT Gandhinagar</ins> 🎓
 </h4>
 
 <h4 align = "center">
-    👨‍💻 I have interned at North Eastern Space Application Centre
+    I have interned at 👨‍💻 <ins>North Eastern Space Application Centre</ins> 👨‍💻
 </h4>
 
 <h4 align = "center">
-    🏢 I am currently working as a Software Development Engineer at Amazon
+    I am currently working as a Software Development Engineer at 🏢 <ins>Amazon</ins> 🏢
 </h4>
 
 <br>
