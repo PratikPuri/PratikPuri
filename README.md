@@ -18,7 +18,7 @@
     🏢 I am currently working as a Software Development Engineer at Amazon
 </h4>
 
-<hr>
+<br>
 
 <div align="center"> 
   <a href="https://leetcode.com/PratikPuri/">
