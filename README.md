@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align = "center"> 
-    Glad you stumbled accross my Github profile 
+    🙂 Glad you stumbled accross my Github profile 
 </h3>
 
 <h4 align = "center">
-    🎓 I am a B.Tech 2020 Electrical Engineering graduate from IIT Gandhinagar
+    🎓 I am a B.Tech. 2020 Electrical Engineering graduate from IIT Gandhinagar
 </h4>
 
 <h4 align = "center">
@@ -20,8 +20,14 @@
 
 <hr>
 
-I am also active on the following platforms:
-
-1. Linkedin: https://www.linkedin.com/in/pratik-puri-goswami/
-2. Leetcode: https://leetcode.com/PratikPuri/
-3. Stackoverflow: https://stackoverflow.com/users/14045514/pratik
+<div align="center"> 
+  <a href="https://leetcode.com/PratikPuri/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pratik-puri-goswami/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/14045514/pratik">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+</div>
